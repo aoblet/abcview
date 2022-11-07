@@ -60,9 +60,7 @@ ELSE()
 ENDIF()
 
 SET(_ilmbase_FIND_COMPONENTS
-    Half
     Iex
-    IexMath
     IlmThread
     Imath
 )
